@@ -60,3 +60,8 @@ gem 'ckeditor'
 
 # Authorization
 gem 'devise'
+
+# Upload images
+
+gem 'carrierwave'
+gem 'mini_magick'
